@@ -1,7 +1,14 @@
 Cloudburst-Prediction-System
 ==============================
 
-A short description of the project.
+The challenge is to develop an accurate cloud burst prediction system that 
+can effectively address these intense rainfall events' unpredictability and 
+rapid onset caused by cumulonimbus clouds. It triggers flash floods and 
+landslides, threatening lives and critical infrastructure. Weather prediction 
+in India is elusive, making accurate forecasting of cloud bursts a challenge. 
+Proactive measures must be taken to reduce their impact on lives and 
+infrastructure. The goal is to predict cloud bursts precisely and promptly to 
+minimize their impact
 
 Project Organization
 ------------
