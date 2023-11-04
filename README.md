@@ -1,6 +1,8 @@
 Cloudburst-Prediction-System
 ==============================
 
+[![Video](https://easternmirrornagaland.com/wp-content/uploads/2023/08/cats_PYjdj1g.png)]()
+
 The challenge is to develop an accurate cloud burst prediction system that 
 can effectively address these intense rainfall events' unpredictability and 
 rapid onset caused by cumulonimbus clouds. It triggers flash floods and 
@@ -12,8 +14,8 @@ minimize their impact
 
 ## See it live and in action 📺
 
-[![Video](https://easternmirrornagaland.com/wp-content/uploads/2023/08/cats_PYjdj1g.png)](https://youtu.be/C9MqNI7K5Iw?si=9m9i1XPbIDpCbzuY)
-==============================
+https://youtu.be/C9MqNI7K5Iw?si=9m9i1XPbIDpCbzuY
+
 
 Project Organization
 ------------
